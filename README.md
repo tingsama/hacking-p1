@@ -100,7 +100,7 @@
 [reference k4]: https://www.schneier.com/academic/archives/1998/12/the_twofish_encrypti.html
 [reference k5]: https://choosetoencrypt.com/tech/twofish-encryption/
 [reference k6]: https://www.solarwindsmsp.com/blog/sha-256-encryption#:~:text=SHA%2D256%20is%20a%20patented,that%20is%20256%20bits%20long.&text=In%20cryptographic%20hashing%2C%20the%20hashed,its%20original%20512%2Dbit%20form.
-
+[reference k7]: https://www.solarwindsmsp.com/blog/sha-256-encryption#:~:text=Three%20properties%20make%20SHA%2D256,a%20collision
 
 
 
