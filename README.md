@@ -8,7 +8,7 @@
 #### Popular Password Managers
 | In-broswer based | Commercial based |
 | --------         | --------         |
-| Google Chrome    | Dashlane         |
+| Google Chrome ![alt text](https://github.com/tingsama/hacking-p1/blob/main/images/chrome.png 'Chrome Logo')    | Dashlane         |
 | Mozilla Firefox  | Keeper           |
 | Safari           | 1Password        |
 | Microsoft Edge   | KeePass          |
