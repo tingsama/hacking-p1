@@ -71,8 +71,14 @@
 ##### SHA-256
 - SHA-256 is a __patented cryptographic hash function__
 - It is a __keyless hash function__ that takes information and generates random characters with __length 256 bits__ [reference k6]
+- It is almost impossible to reconstruct the initial data from the hash value.
+  - A brute-force attack would need to make 2256 attempts to generate the initial data. [reference k7]
+- It is unlikely to have two same hash value of two inputs.
+  - With 2256 possible hash values, the likelihood of two being the same is infinitesimally, unimaginably small. [reference k7]
+- The avalanche effect.
+  - A minor change to the original data will make its hash value change a lot. So two similar inputs will not likely generates similar hashed output through AHS-256.
 ##### KeePass Demo
-
+- 
 
 
 
