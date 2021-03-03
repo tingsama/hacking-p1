@@ -45,5 +45,5 @@
 [microsoft]: https://github.com/tingsama/hacking-p1/blob/main/images/microsoft.png 'Microsoft Logo'
 [dashlane]: https://github.com/tingsama/hacking-p1/blob/main/images/dashlane.png 'Dashlane Logo'
 [keeper]: https://github.com/tingsama/hacking-p1/blob/main/images/keeper.png 'Keeper Logo'
-[onepassword]: https://github.com/tingsama/hacking-p1/blob/main/images/chrome.png 'Onepassword Logo'
+[onepassword]: https://github.com/tingsama/hacking-p1/blob/main/images/onepassword.png 'Onepassword Logo'
 [keepass]: https://github.com/tingsama/hacking-p1/blob/main/images/keepass.png 'Keepass Logo'
