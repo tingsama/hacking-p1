@@ -14,7 +14,7 @@
 | Microsoft Edge ![alt text][microsoft]  | KeePass ![alt text][keepass]        |
 
 ### Password Managers Workflow
-![alt text][work_flow]
+![](images/work_flow.png)
 
 #### Difference between automatic autofill and manual autofill
 ##### Automatic Autofill:
