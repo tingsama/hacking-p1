@@ -58,17 +58,20 @@
 - The database file is encrypted using the _best_ and _most secure_ encryption algorithms, which are __AES__ and __Twofish__.
 - KeePass uses __SHA-256__ to hash the master key components.
 ##### AES
+![alt text][AES] 
 - It uses __symmetric block cipher__
 - It proved to be useful to protect sensitive data
   - __National Security Agency (NSA)__ utilize AES encryption to protect their sensitive information [reference k2]
   - __Many governments and institutions__ are using AES to protect their data [reference k3]
 - It __hard to brute force__, since it accepts key sizes more than 128 bits
 ##### Twofish
+![alt text][Twofish] 
 - It uses __symmetric block cipher__
 - It Trade-offs between __key-setup time__ and __encryption speed__ that make it unique among the AES candidates [reference k4]
 - There have been a few attacks on Twofish. However, It did __not constitute a true cryptanalysis__ [reference k5], according to its creator, Bruce Schneier.
 - It __hard to brute force__. Similar to AES, since the TwoFish supports key sizes of more than 256 bits, it is resistant to brute force attack
 ##### SHA-256
+![alt text][SHA-256] 
 - SHA-256 is a __patented cryptographic hash function__
 - It is a __keyless hash function__ that takes information and generates random characters with __length 256 bits__ [reference k6]
 - It is almost impossible to reconstruct the initial data from the hash value.
@@ -94,6 +97,9 @@
 [keeper]: https://github.com/tingsama/hacking-p1/blob/main/images/keeper.png 'Keeper Logo'
 [onepassword]: https://github.com/tingsama/hacking-p1/blob/main/images/onepassword.png 'Onepassword Logo'
 [keepass]: https://github.com/tingsama/hacking-p1/blob/main/images/keepass.png 'Keepass Logo'
+[AES]: https://github.com/tingsama/hacking-p1/blob/main/images/AES.png 'AES Workflow'
+[Twofish]: https://github.com/tingsama/hacking-p1/blob/main/images/Twofish.png 'Twofish Workflow'
+[SHA-256]: https://github.com/tingsama/hacking-p1/blob/main/images/SHA-256.png 'SHA-256 Workflow'
 [reference k1]: https://keepass.info/
 [reference k2]: https://securityboulevard.com/2020/04/advanced-encryption-standard-aes-what-it-is-and-how-it-works/ 
 [reference k3]: https://searchsecurity.techtarget.com/definition/Advanced-Encryption-Standard#:~:text=The%20Advanced%20Encryption%20Standard%20
