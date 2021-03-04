@@ -1,12 +1,12 @@
 # Password Managers (KeePass)
 
 ### Why Password Managers
-- You don’t need to remember hundred passwords
-- You don’t need to worry about forgetting passwords 
+- You don’t need to remember hundreds of passwords
 - You only need to remember one master password
+- You can have different passwords for different websites and don't need to worry about forgeting them
 
 ### Popular Password Managers
-| In-broswer based | Commercial based |
+| In-browser based | Commercial based |
 | --------         | --------         |
 | Google Chrome ![alt text][chrome]      | Dashlane ![alt text][dashlane]      |
 | Mozilla Firefox ![alt text][firefox]   | Keeper ![alt text][keeper]          |
@@ -16,7 +16,7 @@
 ### Password Managers Workflow
 ![alt text][work_flow]
 
-### Difference between automatic autofill and manual autofill
+#### Difference between automatic autofill and manual autofill
 ##### Automatic Autofill:
 - Does not wait for user interaction
 - One click: submit button 
