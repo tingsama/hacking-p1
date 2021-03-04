@@ -14,6 +14,8 @@
 | Microsoft Edge ![alt text][microsoft]  | KeePass ![alt text][keepass]        |
 
 ### Password Managers Workflow
+[work_flow]
+### Difference between automatic autofill and manual autofill
 ##### Automatic Autofill:
 - Does not wait for user interaction
 - One click: submit button 
@@ -81,7 +83,7 @@
 - The avalanche effect.
   - A minor change to the original data will make its hash value change a lot. So two similar inputs will not likely generates similar hashed output through AHS-256.
 ##### KeePass Demo
-- 
+- [How to use KeePass](https://www.youtube.com/watch?v=ckYeD7yYJn0)
 
 
 
