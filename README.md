@@ -14,7 +14,8 @@
 | Microsoft Edge ![alt text][microsoft]  | KeePass ![alt text][keepass]        |
 
 ### Password Managers Workflow
-[work_flow]
+![alt text][work_flow]
+
 ### Difference between automatic autofill and manual autofill
 ##### Automatic Autofill:
 - Does not wait for user interaction
