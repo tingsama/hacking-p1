@@ -16,7 +16,7 @@
 ### Password Managers Workflow
 ![](images/work_flow.png)
 
-#### Difference between automatic autofill and manual autofill
+#### [Difference between automatic autofill and manual autofill](https://medium.com/@brianrusseldavis/are-autofill-password-managers-safe-8805edf952bf#:~:text=The%20Difference%20Between%20These%20Two%20Types%20of%20Autofill&text=According%20to%20a%20recent%20study,another%20to%20submit%20the%20credentials)
 ##### Automatic Autofill:
 - Does not wait for user interaction
 - One click: submit button 
@@ -27,13 +27,13 @@
 - More secure 
 
 ### Threats, Attacks and Defences
-##### Redirect Sweep Attacks
+##### [Redirect Sweep Attacks](https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/silver)
 - Against automatic autofill password managers
 - Targer user connect to a WiFi hotspot controlled by an attacker
 - Defence:
   - Require user interaction before autofilling 
   - Login page over HTTPS
-##### Cross Site Scripting(XSS) Injection
+##### [Cross Site Scripting(XSS) Injection](https://cispa.saarland/group/stock/papers/stock2014protecting.pdf)
 - An attacker inject JavaScript code to login page 
 - Get credentials and send back to the attacker 
 - Defence:
@@ -41,10 +41,6 @@
   - URL matching and form matching
 
 
-###### read more about password managers attack and defence
-- [presentation by David Silver, Password Managers: Attacks and Defenses](https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/silver)
-- [paper by David Silver, Password Managers: Attacks and Defenses](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-silver.pdf)
-- [Protecting Users Against XSS-based Password Manager Abuse ](https://cispa.saarland/group/stock/papers/stock2014protecting.pdf)
 
 
 
