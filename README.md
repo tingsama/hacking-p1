@@ -60,14 +60,14 @@ KeePass Password Safe is a free, open sourcem light-weight password manager.[4]
 ##### Encryption algorithms
 ##### [AES](https://securityboulevard.com/2020/04/advanced-encryption-standard-aes-what-it-is-and-how-it-works/)
 ![alt text][AES] 
-- It uses __symmetric block cipher__
+- It uses __symmetric block cipher__ (same key for both encryption and decryption)
 - It proved to be useful to protect sensitive data
   - __National Security Agency (NSA)__ utilize AES encryption to protect their sensitive information [6]
   - __Many governments and institutions__ are using AES to protect their data [7]
 - It __hard to brute force__, since it accepts key sizes more than 128 bits
 ##### [Twofish](https://www.schneier.com/academic/archives/1998/12/the_twofish_encrypti.html)
 ![alt text][Twofish] 
-- It uses __symmetric block cipher__
+- It uses __symmetric block cipher__ (same key for both encryption and decryption)
 - It Trade-offs between __key-setup time__ and __encryption speed__ that make it unique among the AES candidates [8]
 - There have been a few attacks on Twofish. However, It did __not constitute a true cryptanalysis__ [9], according to its creator, Bruce Schneier.
 - It __hard to brute force__. Similar to AES, since the TwoFish supports key sizes of more than 256 bits, it is resistant to brute force attack[10]
