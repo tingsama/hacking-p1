@@ -1,6 +1,6 @@
 # Password Managers (KeePass)
 
-### Why Password Managers
+### Why You Should Use a Password Manager
 - You don’t need to remember hundreds of passwords
 - You only need to remember one master password
 - You can have different passwords for different websites and don't need to worry about forgeting them
@@ -43,17 +43,18 @@
 - Attack amplification via password sync
 
 
-### Keepass 
+### Keepass Password Safe
 [download KeePass](https://keepass.info/)
-##### Why Keepass
+KeePass Password Safe is a free, open sourcem light-weight password manager.[4]
+##### Why use Keepass
 - Third party tool
 - Manual autofill (secure)
 - Free and open-source 
-- Strong compatibility (it primarily used in Windows devices, but it supports all Operating Systems like Mac, IOS, Android, Linux)[4]
+- Strong compatibility (it primarily used in Windows devices, but it supports all Operating Systems like Mac, IOS, Android, Linux)[5]
 - Lightweight (it wouldn’t occupy many memory of your device)
 - Easy to use (it has clear User Interface, so it would be easy-to-manage even for the beginner)
-##### How Keepass works
-- The KeePass stores all the passwords in _a database file_, which is locked with _a master key_. [5]
+##### How does Keepass work
+- The KeePass stores all the passwords in _a database file_, which is locked with _a master key_. [4]
 - The database file is encrypted using the _best_ and _most secure_ encryption algorithms, which are __AES__ and __Twofish__.
 - KeePass uses __SHA-256__ to hash the master key components.
 ##### Encryption algorithms
@@ -89,8 +90,8 @@
 [1] D. Balaban, “Comparing In-Browser-Based, Commercial Password Managers,” eWEEK, 18-Feb-2021. [Online]. Available: https://www.eweek.com/search-engines/comparing-in-browser-based-commercial-password-managers/. [Accessed: 03-Mar-2021].<br />
 [2]D. Silver, S. Jana, and D. Boneh, “Password Manager: Attacks and Defenses,” 23rd USENIX Security Symposium, Aug 20 - 22, 2014.<br />
 [3] “Preventing XSS Attacks through CSS Whitelisting,” Powered by MediaWiki. [Online]. Available: https://www.mediawiki.org/wiki/Preventing_XSS_Attacks_through_CSS_Whitelisting. [Accessed: 03-Mar-2021].<br />
-[4]“Managing my passwords with KeePass and OwnCloud,” Managing my passwords with KeePass and OwnCloud | Gabriel's Tech blog. [Online]. Available: https://www.detassigny.net/posts/3/managing-my-passwords-with-keepass-and-owncloud. [Accessed: 03-Mar-2021].<br />
-[5]D. Reichl, KeePass Password Safe. [Online]. Available: https://keepass.info/. [Accessed: 03-Mar-2021].<br />
+[4]D. Reichl, KeePass Password Safe. [Online]. Available: https://keepass.info/. [Accessed: 03-Mar-2021].<br />
+[5]“Managing my passwords with KeePass and OwnCloud,” Managing my passwords with KeePass and OwnCloud | Gabriel's Tech blog. [Online]. Available: https://www.detassigny.net/posts/3/managing-my-passwords-with-keepass-and-owncloud. [Accessed: 03-Mar-2021].<br />
 [6] M. from R. Thomas, R. Thomas, Eyal Gruner | 3 days ago, Kyle Marchini | 4 days ago, Y. E. | F. 23, Richi Jennings | 1 day ago, R. J. | F. 22, and R. J. | F. 19, “Advanced Encryption Standard (AES): What It Is and How It Works,” Security Boulevard, 24-Apr-2020. [Online]. Available: https://securityboulevard.com/2020/04/advanced-encryption-standard-aes-what-it-is-and-how-it-works/. [Accessed: 03-Mar-2021].<br />
 [7] M. Cobb, “What is AES Encryption and How Does it Work?,” SearchSecurity ,17-Apr-2020. [Online]. Available:https://searchsecurity.techtarget.com/definition/Advanced-Encryption-Standard#:~:text=TheAdvanced Encryption Standard (AES,cybersecurity and electronic data protection.[Accessed: 03-Mar-2021].<br />
 [8]B. Schneier, Schneier on Security. [Online]. Available: https://www.schneier.com/academic/archives/1998/12/the_twofish_encrypti.html. [Accessed: 03-Mar-2021].<br />
